@@ -1,0 +1,4 @@
+手順
+- ~/$HOME/.tmux.conf
+- .xinitrc に urxvt -e tmux を追加する
+
