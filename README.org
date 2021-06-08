@@ -1,4 +1,9 @@
-手順
+* インストール
+#+begin_src bash 
+sudo apt install tmux
+#+end_src
+
+* 手順
 - ~/$HOME/.tmux.conf
 - .xinitrc に urxvt -e tmux を追加する
 
