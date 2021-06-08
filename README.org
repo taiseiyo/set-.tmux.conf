@@ -7,3 +7,7 @@ sudo apt install tmux
 - ~/$HOME/.tmux.conf
 - .xinitrc に urxvt -e tmux を追加する
 
+* 準備
+
+- *[[https://github.com/tmux-plugins/tpm][tpm]]* を GitHub からインストール
+- prefix-key + shift-i(大文字)で必要な plugin をインストール
