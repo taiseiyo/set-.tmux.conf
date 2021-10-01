@@ -5,7 +5,9 @@ sudo apt install tmux
 
 * 手順
 - ~/$HOME/.tmux.conf
+  - old-tmux.conf は linux version が古いやつ(基本使わないが念の為に置いてる)
 - .xinitrc に urxvt -e tmux を追加する
+
 
 * 準備
 
