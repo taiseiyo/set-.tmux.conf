@@ -11,3 +11,4 @@ sudo apt install tmux
 
 - *[[https://github.com/tmux-plugins/tpm][tpm]]* を GitHub からインストール
 - prefix-key + shift-i(大文字)で必要な plugin をインストール
+  - .tmux.conf を参照 → 自分の設定だと *prefix-key = ctrl + v*
